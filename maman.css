@@ -1,0 +1,42 @@
+body {
+	background-color: black;
+	background-image: url(flower.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/*audio {
+	display: none;
+}*/
+
+.text-main{
+	font-size: 40px;
+	letter-spacing: 4px;
+} 
+
+.pad-bot{
+	padding-bottom: 5%;
+}
+
+.pad-top{
+	padding-top: 5%;
+}
+
+.head {
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+.text {
+	text-align: justify;
+}
+
+.center {
+	text-align: center;
+	padding-top: 15%;
+}
+
+.well {
+	opacity: 0.8;
+}
+
